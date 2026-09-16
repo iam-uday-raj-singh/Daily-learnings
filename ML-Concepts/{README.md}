@@ -1,0 +1,113 @@
+# Machine Learning Concepts
+
+This folder contains my structured learning, revision, and practical implementation of Machine Learning concepts.
+
+The objective is to build strong conceptual understanding, mathematical intuition, and practical knowledge required for Data Science, Machine Learning, and ML Engineering roles.
+
+---
+
+## Learning Roadmap
+
+### 01. ML Fundamentals
+
+* [ ] What is Machine Learning?
+* [ ] Types of Machine Learning
+* [ ] Supervised vs Unsupervised Learning
+* [ ] Features, Targets, and Observations
+* [ ] Training vs Inference
+* [ ] Train / Validation / Test Sets
+* [ ] Generalization
+* [ ] Overfitting vs Underfitting
+* [ ] Bias vs Variance
+* [ ] Data Leakage
+* [ ] Model Evaluation
+
+### 02. Mathematics for ML
+
+* [ ] Linear Algebra
+* [ ] Probability
+* [ ] Statistics
+* [ ] Calculus
+* [ ] Gradients
+* [ ] Optimization
+
+### 03. Supervised Learning
+
+* [ ] Linear Regression
+* [ ] Logistic Regression
+* [ ] K-Nearest Neighbors
+* [ ] Decision Trees
+* [ ] Random Forest
+* [ ] Gradient Boosting
+* [ ] XGBoost
+
+### 04. Unsupervised Learning
+
+* [ ] K-Means Clustering
+* [ ] Hierarchical Clustering
+* [ ] PCA
+
+### 05. Model Evaluation & Selection
+
+* [ ] Regression Metrics
+* [ ] Classification Metrics
+* [ ] Confusion Matrix
+* [ ] Precision / Recall / F1
+* [ ] ROC-AUC
+* [ ] Cross Validation
+* [ ] Hyperparameter Tuning
+
+### 06. Practical ML
+
+* [ ] Feature Engineering
+* [ ] Feature Selection
+* [ ] Handling Missing Values
+* [ ] Categorical Variables
+* [ ] Feature Scaling
+* [ ] Imbalanced Data
+* [ ] ML Pipelines
+* [ ] Model Interpretability
+
+---
+
+## Progress
+
+**Current Focus:** ML Fundamentals
+
+---
+
+## Learning Approach
+
+For each major concept:
+
+1. Understand the intuition
+2. Learn the underlying mathematics where required
+3. Explain the concept in my own words
+4. Implement the concept where appropriate
+5. Experiment with different scenarios
+6. Document key observations
+7. Commit the work to GitHub
+
+---
+
+## Repository Structure
+
+The repository will grow as concepts are learned rather than creating the complete directory structure upfront.
+
+```text
+ML-Concepts/
+├── README.md
+│
+├── 01-ML-Fundamentals/
+│   └── README.md
+│
+├── 02-Mathematics-for-ML/
+│   └── ...
+│
+├── 03-Supervised-Learning/
+│   └── ...
+│
+└── ...
+```
+
+Each section will contain the relevant notes, implementations, experiments, and supporting material as the learning progresses.
